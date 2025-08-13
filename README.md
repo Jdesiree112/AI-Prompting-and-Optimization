@@ -1,1 +1,1 @@
-# AI-Prompting-and-Optimization
+# AI Prompting and Optimization
